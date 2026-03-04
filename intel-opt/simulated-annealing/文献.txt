@@ -1,0 +1,7 @@
+TI Optimization by simulated annealing.
+AU Kirkpatrick, S
+   Gelatt, C D Jr
+   Vecchi, M P
+SO Science (New York, N.Y.)
+PY 1983
+DI 10.1126/science.220.4598.671
